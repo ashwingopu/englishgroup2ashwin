@@ -1,0 +1,26 @@
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    color: aqua;
+    
+}
+
+
+nav ul li{
+    margin: 0 20px;
+}
+
+.english{
+    text-align: center;
+    background-color: lightgreen;
+    
+}
+.group2{
+    text-align: center;
+    background-color: aqua;
+}
+.ashwin{
+    text-align: center;
+    background-color: burlywood;
+}
